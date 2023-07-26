@@ -1,0 +1,166 @@
+@media(max-width:576px){
+.col-sm-1{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-sm-2{
+	width:16.66%;
+	padding:0 15px;
+}
+.col-sm-3{
+	width:25%;
+	padding:0 15px;
+}
+.col-sm-4{
+	width:33.33%;
+	padding:0 15px;
+}
+.col-sm-5{
+	width:41.66%;
+	padding:0 15px;
+}
+.col-sm-6{
+	width:50%;
+	padding:0 15px;
+}
+.col-sm-7{
+	width:58.33%;
+	padding:0 15px;
+}
+.col-sm-8{
+	width:66.66%;
+	padding:0 15px;
+}
+.col-sm-9{
+	width:75%;
+	padding:0 15px;
+}
+.col-sm-10{
+	width:83.33%;
+	padding:0 15px;
+}
+.col-sm-11{
+	width:91.66%;
+	padding:0 15px;
+}
+.col-sm-12{
+	width:100%;
+}
+
+.nav-bar{
+	display:none;
+}
+.order-1{
+	order:1;
+}
+.order-2{
+	order:2;
+}
+.justify{
+	padding:20px;
+}
+.unorderr a{
+	padding:10px 10px;
+	background-color:#58ce58;
+	border-radius:25px;
+	color:white;
+	text-decoration:none;
+}
+
+.unorderr{
+	display:flex;
+	justify-content:flex-end;
+	align-items:center;
+}
+.unorderr i{
+	padding-left:15px;
+	font-size:25px;
+}
+nav{
+	display:none;
+}
+}
+@media(min-width:768px) and (max-width:992px){
+.col-md-1{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-md-2{
+	width:16.66%;
+	padding:0 15px;
+}
+.col-md-3{
+	width:25%;
+	padding:0 15px;
+}
+.col-md-4{
+	width:33.33%;
+	padding:0 15px;
+}
+.col-md-5{
+	width:41.66%;
+	padding:0 15px;
+}
+.col-md-6{
+	width:50%;
+	padding:0 15px;
+}
+.col-md-7{
+	width:58.33%;
+	padding:0 15px;
+}
+.col-md-8{
+	width:66.66%;
+	padding:0 15px;
+}
+.col-md-9{
+	width:75%;
+	padding:0 15px;
+}
+.col-md-10{
+	width:83.33%;
+	padding:0 15px;
+}
+.col-md-11{
+	width:91.66%;
+	padding:0 15px;
+}
+.col-md-12{
+	width:100%;
+}	
+.order-1{
+	order:1;
+}
+.order-2{
+	order:2;
+}
+.justify{
+	padding:20px;
+}
+.laptop{
+	padding:20px 0px;
+}
+.walter{
+	padding:20px 0px;
+}
+.unorderr a{
+	padding:10px 10px;
+	background-color:#58ce58;
+	border-radius:25px;
+	color:white;
+	text-decoration:none;
+}
+
+.unorderr{
+	display:flex;
+	justify-content:flex-end;
+	align-items:center;
+}
+.unorderr i{
+	padding-left:15px;
+	font-size:25px;
+}
+nav{
+	display:none;
+}
+}
